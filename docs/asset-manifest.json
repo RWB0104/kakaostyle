@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kakaostyle/static/css/main.8473939e.css",
+    "main.js": "/kakaostyle/static/js/main.eb3b300f.js",
+    "index.html": "/kakaostyle/index.html",
+    "main.8473939e.css.map": "/kakaostyle/static/css/main.8473939e.css.map",
+    "main.eb3b300f.js.map": "/kakaostyle/static/js/main.eb3b300f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8473939e.css",
+    "static/js/main.eb3b300f.js"
+  ]
+}
