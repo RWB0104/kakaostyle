@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kakaostyle/static/css/main.c9078a30.css",
-    "main.js": "/kakaostyle/static/js/main.db45a198.js",
+    "main.js": "/kakaostyle/static/js/main.06de67f1.js",
     "index.html": "/kakaostyle/index.html",
     "main.c9078a30.css.map": "/kakaostyle/static/css/main.c9078a30.css.map",
-    "main.db45a198.js.map": "/kakaostyle/static/js/main.db45a198.js.map"
+    "main.06de67f1.js.map": "/kakaostyle/static/js/main.06de67f1.js.map"
   },
   "entrypoints": [
     "static/css/main.c9078a30.css",
-    "static/js/main.db45a198.js"
+    "static/js/main.06de67f1.js"
   ]
 }
